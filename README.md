@@ -1,5 +1,8 @@
-# zctechX
+# zctechX尊创科技
 AI大模型技术驱动数字孪生+产业应用
+![zctechAI](https://github.com/enryteam/zctechX/assets/20081090/91c7fdef-ec0c-4938-ba50-83a7ce446d20)
+
+![Uploading image.png…]()
 
 
 # 咨询链接
