@@ -1,14 +1,16 @@
 # zctechX尊创科技
 AI大模型技术驱动数字孪生+产业应用
-![zctechAI](https://github.com/enryteam/zctechX/assets/20081090/91c7fdef-ec0c-4938-ba50-83a7ce446d20)
 
-![Uploading image.png…]()
+<img width="389" alt="zctechX" src="https://github.com/enryteam/zctechX/assets/20081090/9689242a-8942-4614-b953-cb92c7de0a41">
+
+
 
 
 # 咨询链接
 http://eciot-3s.mikecrm.com/ML0OfCL
 
-原创 ZUNCHUANG.TECH  尊创科技  2024-02-26 21:22 江苏
+![zctechAI](https://github.com/enryteam/zctechX/assets/20081090/91c7fdef-ec0c-4938-ba50-83a7ce446d20)
+来自 ：原创文章 ZUNCHUANG.TECH  尊创科技  2024-02-26 21:22
 AI大模型以较高的智能程度和较低的边际生产成本成为主流趋势,也使得数字孪生趋于成熟。
 
 数字孪生定义是对现实世界数字化建模,实现全域感知与运行监测,助力精准研判智能决策。数字孪生使能意义是回溯过往(历史反演、归纳总结、诊断问题)，掌控当下(反向控制、动态仿真、精细治理)和预见未来(态势模拟、预测推演、持续发展)。
